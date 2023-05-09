@@ -1172,10 +1172,5 @@ The insights below are associated with the logistic model obtained with the over
 * Use a parameter optimization framework like Optuna
 * Expand the number of parameters to tune
 * Experiment with other models such as XGboost...
-* Ensemble models: Majority...
-* Apply SMOTE only to the training subset
-* Improve the neural network architecture: neurons, layers...
-* Present metrics for both training and testing to contrast and avoid overfitting
-* Include learning and validation curves
-* AWS: Random Cut Forest
+
 """
